@@ -1,4 +1,4 @@
-🚗 Car Sales Dashboard
+**🚗 Car Sales Dashboard**
 
 This project presents an interactive Car Sales Dashboard built to analyze Year-To-Date (YTD) performance, sales trends, customer details, and company-wise performance.
 
@@ -16,6 +16,6 @@ Company-wise Sales Comparison
 
 Detailed Transaction-Level View
 
-🛠 Tools Used
+**🛠 Tools Used**
 
 Power BI | Data Modeling | DAX | Data Visualization
